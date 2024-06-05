@@ -14,7 +14,7 @@
 // specific language governing permissions and limitations
 // under the License.
 
-# FHIR accepted MIME types
+# FHIR accepted MIME typess
 public enum MimeType {
     FHIR_JSON = "application/fhir+json",
     FHIR_XML = "application/fhir+xml"
